@@ -1,0 +1,1 @@
+Run with : `cargo run --release --example name_of_app`
